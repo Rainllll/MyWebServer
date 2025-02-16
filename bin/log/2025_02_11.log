@@ -1,0 +1,49 @@
+2025-02-11 18:22:23.549006 [info] : ========== Server init ==========
+2025-02-11 18:22:23.549104 [info] : Listen Mode: LT, OpenConn Mode: LT
+2025-02-11 18:22:23.549121 [info] : LogSys level: 1
+2025-02-11 18:22:23.551703 [info] : srcDir: (null)
+2025-02-11 18:22:23.551720 [info] : SqlConnPool num: 12, ThreadPool num: 8
+2025-02-11 18:22:23.647432 [info] : Server port:1316
+2025-02-11 18:22:23.648239 [info] : ========== Server start ==========
+2025-02-11 18:23:11.524241 [info] : Client[18](127.0.0.1:46267) in, userCount:1
+2025-02-11 18:23:11.525173 [info] : Client[18] in!
+2025-02-11 18:23:11.531697 [info] : Client[24](127.0.0.1:46779) in, userCount:2
+2025-02-11 18:23:11.532467 [info] : Client[24] in!
+2025-02-11 18:24:11.541229 [info] : Client[24] quit!
+2025-02-11 18:24:11.542208 [info] : Client[24](127.0.0.1:46779) quit, UserCount:1
+2025-02-11 18:25:01.835798 [info] : Client[18] quit!
+2025-02-11 18:25:01.836934 [info] : Client[18](127.0.0.1:46267) quit, UserCount:0
+2025-02-11 18:26:11.514786 [info] : ========== Server init ==========
+2025-02-11 18:26:11.514825 [info] : Listen Mode: ET, OpenConn Mode: LT
+2025-02-11 18:26:11.514857 [info] : LogSys level: 1
+2025-02-11 18:26:11.514888 [info] : srcDir: (null)
+2025-02-11 18:26:11.514920 [info] : SqlConnPool num: 12, ThreadPool num: 8
+2025-02-11 18:26:11.586455 [info] : Server port:1316
+2025-02-11 18:26:11.587495 [info] : ========== Server start ==========
+2025-02-11 18:26:15.158996 [info] : Client[18](127.0.0.1:29907) in, userCount:1
+2025-02-11 18:26:15.159809 [info] : Client[18] in!
+2025-02-11 18:26:15.160633 [info] : Client[24](127.0.0.1:30419) in, userCount:2
+2025-02-11 18:26:15.161563 [info] : Client[24] in!
+2025-02-11 18:27:15.214420 [info] : Client[18] quit!
+2025-02-11 18:27:15.215610 [info] : Client[18](127.0.0.1:29907) quit, UserCount:1
+2025-02-11 18:27:15.216156 [info] : Client[24] quit!
+2025-02-11 18:27:15.216383 [info] : Client[24](127.0.0.1:30419) quit, UserCount:0
+2025-02-11 18:27:28.760536 [info] : Client[18](127.0.0.1:35980) in, userCount:1
+2025-02-11 18:27:28.761558 [info] : Client[18] in!
+2025-02-11 18:27:28.769214 [info] : Client[24](127.0.0.1:38028) in, userCount:2
+2025-02-11 18:27:28.769892 [info] : Client[24] in!
+2025-02-11 18:28:28.817579 [info] : Client[18] quit!
+2025-02-11 18:28:28.817841 [info] : Client[18](127.0.0.1:35980) quit, UserCount:1
+2025-02-11 18:28:28.818388 [info] : Client[24] quit!
+2025-02-11 18:28:28.818508 [info] : Client[24](127.0.0.1:38028) quit, UserCount:0
+2025-02-11 18:43:10.341408 [info] : Client[18](127.0.0.1:20191) in, userCount:1
+2025-02-11 18:43:10.341639 [info] : Client[18] in!
+2025-02-11 18:44:11.368296 [info] : ========== Server init ==========
+2025-02-11 18:44:11.368336 [info] : Listen Mode: ET, OpenConn Mode: LT
+2025-02-11 18:44:11.368696 [info] : LogSys level: 1
+2025-02-11 18:44:11.368727 [info] : srcDir: (null)
+2025-02-11 18:44:11.371346 [info] : SqlConnPool num: 12, ThreadPool num: 8
+2025-02-11 18:44:11.434024 [info] : Server port:1316
+2025-02-11 18:44:11.434638 [info] : ========== Server start ==========
+2025-02-11 18:44:19.905068 [info] : Client[18](127.0.0.1:32917) in, userCount:1
+2025-02-11 18:44:19.905703 [info] : Client[18] in!

@@ -1,0 +1,889 @@
+2025-02-15 23:02:57.618180 [info] : ========== Server init ==========
+2025-02-15 23:02:57.618284 [info] : Listen Mode: ET, OpenConn Mode: LT
+2025-02-15 23:02:57.618310 [info] : LogSys level: 1
+2025-02-15 23:02:57.619613 [info] : srcDir: (null)
+2025-02-15 23:02:57.619650 [info] : SqlConnPool num: 12, ThreadPool num: 8
+2025-02-15 23:02:57.984522 [info] : Server port:1316
+2025-02-15 23:02:57.985402 [info] : ========== Server start ==========
+2025-02-15 23:03:03.764349 [info] : Client[18](127.0.0.1:57474) in, userCount:1
+2025-02-15 23:03:03.765269 [info] : Client[18] in!
+2025-02-15 23:03:03.770902 [info] : Client[20](127.0.0.1:60546) in, userCount:2
+2025-02-15 23:03:03.771863 [info] : Client[20] in!
+2025-02-15 23:03:03.888791 [info] : Client[21](127.0.0.1:62594) in, userCount:3
+2025-02-15 23:03:03.889728 [info] : Client[21] in!
+2025-02-15 23:03:03.890473 [info] : Client[22](127.0.0.1:643) in, userCount:4
+2025-02-15 23:03:03.890966 [info] : Client[22] in!
+2025-02-15 23:03:03.908757 [info] : Client[24](127.0.0.1:4227) in, userCount:5
+2025-02-15 23:03:03.909508 [info] : Client[24] in!
+2025-02-15 23:03:03.914800 [info] : Client[25](127.0.0.1:7299) in, userCount:6
+2025-02-15 23:03:03.915333 [info] : Client[25] in!
+2025-02-15 23:03:22.732744 [info] : Verify name:111 pwd:111
+2025-02-15 23:03:42.550569 [info] : Verify name:111 pwd:111
+2025-02-15 23:04:42.653933 [info] : Client[25] quit!
+2025-02-15 23:04:42.654432 [info] : Client[25](127.0.0.1:7299) quit, UserCount:5
+2025-02-15 23:04:42.654855 [info] : Client[21] quit!
+2025-02-15 23:04:42.654975 [info] : Client[21](127.0.0.1:62594) quit, UserCount:4
+2025-02-15 23:04:42.655020 [info] : Client[18] quit!
+2025-02-15 23:04:42.655105 [info] : Client[18](127.0.0.1:57474) quit, UserCount:3
+2025-02-15 23:04:42.655147 [info] : Client[22] quit!
+2025-02-15 23:10:22.698001 [info] : ========== Server init ==========
+2025-02-15 23:10:22.698117 [info] : Listen Mode: LT, OpenConn Mode: LT
+2025-02-15 23:10:22.698150 [info] : LogSys level: 0
+2025-02-15 23:10:22.698182 [info] : srcDir: (null)
+2025-02-15 23:10:22.698214 [info] : SqlConnPool num: 12, ThreadPool num: 8
+2025-02-15 23:10:22.772011 [info] : Server port:1316
+2025-02-15 23:10:22.773184 [info] : ========== Server start ==========
+2025-02-15 23:10:33.996035 [info] : Client[18](127.0.0.1:57988) in, userCount:1
+2025-02-15 23:10:33.997191 [info] : Client[18] in!
+2025-02-15 23:10:33.998490 [info] : Client[20](127.0.0.1:59012) in, userCount:2
+2025-02-15 23:10:33.999584 [info] : Client[20] in!
+2025-02-15 23:10:34.001795 [debug]: [GET], [/index.html], [1.1]
+2025-02-15 23:10:34.001923 [debug]: /index.html
+2025-02-15 23:10:34.001990 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//index.html
+2025-02-15 23:10:34.002036 [debug]: filesize:3067, 2  to 3189
+2025-02-15 23:10:34.022767 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:10:34.022879 [debug]: /css/bootstrap.min.css
+2025-02-15 23:10:34.022910 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:10:34.022927 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:10:34.023560 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:10:34.023679 [debug]: /css/animate.css
+2025-02-15 23:10:34.023721 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:10:34.023765 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:10:34.067149 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:10:34.067381 [debug]: /js/jquery.js
+2025-02-15 23:10:34.067476 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:10:34.067523 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:10:34.069015 [info] : Client[21](127.0.0.1:59524) in, userCount:3
+2025-02-15 23:10:34.069736 [info] : Client[21] in!
+2025-02-15 23:10:34.070872 [info] : Client[22](127.0.0.1:62596) in, userCount:4
+2025-02-15 23:10:34.071728 [info] : Client[22] in!
+2025-02-15 23:10:34.072498 [info] : Client[24](127.0.0.1:1157) in, userCount:5
+2025-02-15 23:10:34.073434 [info] : Client[24] in!
+2025-02-15 23:10:34.077251 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:10:34.077311 [debug]: /js/bootstrap.min.js
+2025-02-15 23:10:34.077364 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:10:34.077383 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:10:34.082529 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:10:34.082787 [debug]: /css/font-awesome.min.css
+2025-02-15 23:10:34.082927 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:10:34.082967 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:10:34.084139 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:10:34.084531 [debug]: /css/magnific-popup.css
+2025-02-15 23:10:34.084594 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:10:34.084642 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:10:34.086493 [info] : Client[25](127.0.0.1:5253) in, userCount:6
+2025-02-15 23:10:34.086759 [info] : Client[25] in!
+2025-02-15 23:10:34.089169 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:10:34.089323 [debug]: /css/style.css
+2025-02-15 23:10:34.089372 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:10:34.089419 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:10:34.089783 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:10:34.089813 [debug]: /images/profile-image.jpg
+2025-02-15 23:10:34.089850 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:10:34.089887 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:10:34.106406 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:10:34.106591 [debug]: /js/smoothscroll.js
+2025-02-15 23:10:34.107440 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:10:34.107482 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:10:34.112983 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:10:34.113241 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:10:34.113320 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:10:34.113361 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:10:34.113668 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:10:34.113712 [debug]: /js/wow.min.js
+2025-02-15 23:10:34.113785 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:10:34.113833 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:10:34.114151 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:10:34.114186 [debug]: /js/custom.js
+2025-02-15 23:10:34.114240 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:10:34.114275 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:10:34.115796 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:10:34.115860 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:10:34.115893 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:10:34.115909 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:11:14.002594 [info] : Client[26](127.0.0.1:33983) in, userCount:7
+2025-02-15 23:11:14.002853 [info] : Client[26] in!
+2025-02-15 23:11:14.046412 [debug]: [GET], [/login.html], [1.1]
+2025-02-15 23:11:14.046796 [debug]: /login.html
+2025-02-15 23:11:14.046847 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//login.html
+2025-02-15 23:11:14.046897 [debug]: filesize:3304, 2  to 3426
+2025-02-15 23:11:14.102496 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:11:14.102593 [debug]: /css/bootstrap.min.css
+2025-02-15 23:11:14.102778 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:11:14.102838 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:11:14.112883 [info] : Client[27](127.0.0.1:35007) in, userCount:8
+2025-02-15 23:11:14.113015 [info] : Client[27] in!
+2025-02-15 23:11:14.118255 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:11:14.118465 [debug]: /css/animate.css
+2025-02-15 23:11:14.118513 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:11:14.118557 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:11:14.158043 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:11:14.158262 [debug]: /js/bootstrap.min.js
+2025-02-15 23:11:14.158325 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:11:14.158363 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:11:14.163673 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:11:14.164467 [debug]: /js/smoothscroll.js
+2025-02-15 23:11:14.166860 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:11:14.167689 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:11:14.175584 [info] : Client[28](127.0.0.1:38079) in, userCount:9
+2025-02-15 23:11:14.175660 [info] : Client[28] in!
+2025-02-15 23:11:14.175694 [info] : Client[29](127.0.0.1:40639) in, userCount:10
+2025-02-15 23:11:14.175733 [info] : Client[29] in!
+2025-02-15 23:11:14.176282 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:11:14.176318 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:11:14.176382 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:11:14.176423 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:11:14.181804 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:11:14.182149 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:11:14.182244 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:11:14.182311 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:11:14.187957 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:11:14.188105 [debug]: /css/magnific-popup.css
+2025-02-15 23:11:14.188157 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:11:14.188207 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:11:14.188503 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:11:14.188660 [debug]: /css/font-awesome.min.css
+2025-02-15 23:11:14.188704 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:11:14.188750 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:11:14.191917 [info] : Client[30](127.0.0.1:43711) in, userCount:11
+2025-02-15 23:11:14.192998 [info] : Client[30] in!
+2025-02-15 23:11:14.197796 [info] : Client[31](127.0.0.1:46783) in, userCount:12
+2025-02-15 23:11:14.198746 [info] : Client[31] in!
+2025-02-15 23:11:14.202432 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:11:14.202465 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:11:14.202769 [debug]: /js/wow.min.js
+2025-02-15 23:11:14.202494 [debug]: /css/style.css
+2025-02-15 23:11:14.202849 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:11:14.202961 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:11:14.202852 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:11:14.203048 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:11:14.204230 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:11:14.204312 [debug]: /js/jquery.js
+2025-02-15 23:11:14.204349 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:11:14.204388 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:11:14.205251 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:11:14.205323 [debug]: /js/custom.js
+2025-02-15 23:11:14.205371 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:11:14.205405 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:11:34.087016 [info] : Client[18] quit!
+2025-02-15 23:11:34.087943 [info] : Client[18](127.0.0.1:57988) quit, UserCount:11
+2025-02-15 23:11:34.108021 [info] : Client[20] quit!
+2025-02-15 23:11:34.109646 [info] : Client[20](127.0.0.1:59012) quit, UserCount:10
+2025-02-15 23:11:34.113842 [debug]: username = root
+2025-02-15 23:11:34.114053 [debug]: Tag:1
+2025-02-15 23:11:34.114089 [info] : Verify name:root pwd:123456
+2025-02-15 23:11:34.114123 [debug]: SELECT username, password FROM user WHERE username='root' LIMIT 1
+2025-02-15 23:11:34.114512 [info] : Client[21] quit!
+2025-02-15 23:11:34.115160 [info] : Client[21](127.0.0.1:59524) quit, UserCount:9
+2025-02-15 23:11:34.115216 [info] : Client[25] quit!
+2025-02-15 23:11:34.115297 [info] : Client[25](127.0.0.1:5253) quit, UserCount:8
+2025-02-15 23:11:34.115350 [info] : Client[22] quit!
+2025-02-15 23:11:34.115427 [info] : Client[22](127.0.0.1:62596) quit, UserCount:7
+2025-02-15 23:11:34.115480 [info] : Client[24] quit!
+2025-02-15 23:11:34.115558 [info] : Client[24](127.0.0.1:1157) quit, UserCount:6
+2025-02-15 23:11:34.126797 [debug]: Body:username=root&password=123456, len:29
+2025-02-15 23:11:34.127022 [debug]: [POST], [/error.html], [1.1]
+2025-02-15 23:11:34.127055 [debug]: /error.html
+2025-02-15 23:11:34.127127 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//error.html
+2025-02-15 23:11:34.127176 [debug]: filesize:3184, 2  to 3306
+2025-02-15 23:11:34.147312 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:11:34.147378 [debug]: /css/bootstrap.min.css
+2025-02-15 23:11:34.147410 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:11:34.147428 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:11:34.149002 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:11:34.149265 [debug]: /images/profile-image.jpg
+2025-02-15 23:11:34.149390 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:11:34.149536 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:11:34.151581 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:11:34.151658 [debug]: /css/magnific-popup.css
+2025-02-15 23:11:34.151726 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:11:34.151774 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:11:34.154474 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:11:34.155402 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:11:34.155431 [debug]: /css/animate.css
+2025-02-15 23:11:34.155440 [debug]: /css/font-awesome.min.css
+2025-02-15 23:11:34.155539 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:11:34.155584 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:11:34.155597 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:11:34.155631 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:11:34.157207 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:11:34.157322 [debug]: /css/style.css
+2025-02-15 23:11:34.157387 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:11:34.157434 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:11:34.175547 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:11:34.177526 [debug]: /js/jquery.js
+2025-02-15 23:11:34.177794 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:11:34.177877 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:11:34.182063 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:11:34.182808 [debug]: /js/smoothscroll.js
+2025-02-15 23:11:34.184175 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:11:34.184358 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:11:34.189064 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:11:34.189240 [debug]: /js/bootstrap.min.js
+2025-02-15 23:11:34.189421 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:11:34.189470 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:11:34.196122 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:11:34.196293 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:11:34.196359 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:11:34.196397 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:11:34.200722 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:11:34.201680 [debug]: /js/wow.min.js
+2025-02-15 23:11:34.201788 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:11:34.201835 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:11:34.210829 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:11:34.210967 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:11:34.211051 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:11:34.211117 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:11:34.240142 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:11:34.240279 [debug]: /js/custom.js
+2025-02-15 23:11:34.240359 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:11:34.240411 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:12:34.242915 [info] : Client[28] quit!
+2025-02-15 23:12:34.243463 [info] : Client[28](127.0.0.1:38079) quit, UserCount:5
+2025-02-15 23:12:34.243555 [info] : Client[29] quit!
+2025-02-15 23:12:34.243771 [info] : Client[29](127.0.0.1:40639) quit, UserCount:4
+2025-02-15 23:12:34.243858 [info] : Client[31] quit!
+2025-02-15 23:12:34.243959 [info] : Client[31](127.0.0.1:46783) quit, UserCount:3
+2025-02-15 23:12:34.244046 [info] : Client[27] quit!
+2025-02-15 23:12:34.244145 [info] : Client[27](127.0.0.1:35007) quit, UserCount:2
+2025-02-15 23:12:34.244231 [info] : Client[26] quit!
+2025-02-15 23:12:34.244329 [info] : Client[26](127.0.0.1:33983) quit, UserCount:1
+2025-02-15 23:12:34.244418 [info] : Client[30] quit!
+2025-02-15 23:12:34.244517 [info] : Client[30](127.0.0.1:43711) quit, UserCount:0
+2025-02-15 23:13:54.684665 [info] : Client[18](127.0.0.1:47291) in, userCount:1
+2025-02-15 23:13:54.684922 [info] : Client[18] in!
+2025-02-15 23:13:54.686851 [info] : Client[20](127.0.0.1:48315) in, userCount:2
+2025-02-15 23:13:54.687085 [info] : Client[20] in!
+2025-02-15 23:13:54.689378 [debug]: username = root
+2025-02-15 23:13:54.689585 [debug]: Tag:1
+2025-02-15 23:13:54.689737 [info] : Verify name:root pwd:123456
+2025-02-15 23:13:54.689771 [debug]: SELECT username, password FROM user WHERE username='root' LIMIT 1
+2025-02-15 23:13:54.706385 [debug]: Body:username=root&password=123456, len:29
+2025-02-15 23:13:54.706582 [debug]: [POST], [/error.html], [1.1]
+2025-02-15 23:13:54.706863 [debug]: /error.html
+2025-02-15 23:13:54.706919 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//error.html
+2025-02-15 23:13:54.706969 [debug]: filesize:3184, 2  to 3306
+2025-02-15 23:13:54.725010 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:13:54.725276 [debug]: /css/animate.css
+2025-02-15 23:13:54.725326 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:13:54.725374 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:13:54.729153 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:13:54.729353 [debug]: /css/bootstrap.min.css
+2025-02-15 23:13:54.729429 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:13:54.729982 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:13:54.754806 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:13:54.755283 [debug]: /js/jquery.js
+2025-02-15 23:13:54.755410 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:13:54.755463 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:13:54.759701 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:13:54.759856 [debug]: /js/bootstrap.min.js
+2025-02-15 23:13:54.760027 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:13:54.760065 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:13:54.786409 [info] : Client[21](127.0.0.1:49339) in, userCount:3
+2025-02-15 23:13:54.786621 [info] : Client[21] in!
+2025-02-15 23:13:54.790025 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:13:54.790543 [debug]: /css/font-awesome.min.css
+2025-02-15 23:13:54.791173 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:13:54.791281 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:13:54.814917 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:13:54.815450 [debug]: /js/smoothscroll.js
+2025-02-15 23:13:54.815626 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:13:54.815710 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:13:54.817565 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:13:54.817723 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:13:54.817738 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:13:54.817780 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:13:54.817804 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:13:54.817860 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:13:54.818036 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:13:54.817865 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:13:54.821436 [info] : Client[22](127.0.0.1:52923) in, userCount:4
+2025-02-15 23:13:54.824275 [info] : Client[22] in!
+2025-02-15 23:13:54.824463 [info] : Client[24](127.0.0.1:53435) in, userCount:5
+2025-02-15 23:13:54.824523 [info] : Client[24] in!
+2025-02-15 23:13:54.832245 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:13:54.832441 [debug]: /images/profile-image.jpg
+2025-02-15 23:13:54.832498 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:13:54.832661 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:13:54.836115 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:13:54.836286 [debug]: /css/style.css
+2025-02-15 23:13:54.836338 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:13:54.836387 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:13:54.843523 [info] : Client[25](127.0.0.1:57019) in, userCount:6
+2025-02-15 23:13:54.845035 [info] : Client[25] in!
+2025-02-15 23:13:54.849872 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:13:54.850094 [debug]: /js/wow.min.js
+2025-02-15 23:13:54.850171 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:13:54.850220 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:13:54.852320 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:13:54.852609 [debug]: /js/custom.js
+2025-02-15 23:13:54.852679 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:13:54.852727 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:13:54.854747 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:13:54.854790 [debug]: /css/magnific-popup.css
+2025-02-15 23:13:54.854806 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:13:54.854821 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:13:54.911098 [debug]: [GET], [/images/favicon.ico], [1.1]
+2025-02-15 23:13:54.911273 [debug]: /images/favicon.ico
+2025-02-15 23:13:54.911353 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/favicon.ico
+2025-02-15 23:13:54.911408 [debug]: filesize:60990, 2  to 61114
+2025-02-15 23:14:02.426152 [debug]: [GET], [/login.html], [1.1]
+2025-02-15 23:14:02.426355 [debug]: /login.html
+2025-02-15 23:14:02.426437 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//login.html
+2025-02-15 23:14:02.426474 [debug]: filesize:3304, 2  to 3426
+2025-02-15 23:14:02.448906 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:14:02.449072 [debug]: /css/bootstrap.min.css
+2025-02-15 23:14:02.449150 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:14:02.449299 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:14:02.451029 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:14:02.451115 [debug]: /css/animate.css
+2025-02-15 23:14:02.452209 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:14:02.452259 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:14:02.452810 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:14:02.452860 [debug]: /css/magnific-popup.css
+2025-02-15 23:14:02.452931 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:14:02.452974 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:14:02.453592 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:14:02.453684 [debug]: /css/style.css
+2025-02-15 23:14:02.453751 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:14:02.453927 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:14:02.455916 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:14:02.456034 [debug]: /css/font-awesome.min.css
+2025-02-15 23:14:02.456096 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:14:02.456146 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:14:02.457967 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:14:02.458096 [debug]: /js/jquery.js
+2025-02-15 23:14:02.458163 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:14:02.458764 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:14:02.477714 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:14:02.477883 [debug]: /js/bootstrap.min.js
+2025-02-15 23:14:02.477962 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:14:02.478016 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:14:02.480103 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:14:02.480214 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:14:02.480292 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:14:02.480343 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:14:02.482000 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:14:02.482045 [debug]: /js/smoothscroll.js
+2025-02-15 23:14:02.482082 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:14:02.482098 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:14:02.483241 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:14:02.483329 [debug]: /js/wow.min.js
+2025-02-15 23:14:02.483376 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:14:02.483428 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:14:02.485340 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:14:02.485703 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:14:02.485769 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:14:02.485817 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:14:02.496518 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:14:02.496695 [debug]: /js/custom.js
+2025-02-15 23:14:02.496762 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:14:02.496799 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:14:12.054775 [debug]: username = root
+2025-02-15 23:14:12.054919 [debug]: Tag:1
+2025-02-15 23:14:12.054953 [info] : Verify name:root pwd:123456
+2025-02-15 23:14:12.054985 [debug]: SELECT username, password FROM user WHERE username='root' LIMIT 1
+2025-02-15 23:14:12.070030 [debug]: Body:username=root&password=123456, len:29
+2025-02-15 23:14:12.070767 [debug]: [POST], [/error.html], [1.1]
+2025-02-15 23:14:12.070846 [debug]: /error.html
+2025-02-15 23:14:12.070927 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//error.html
+2025-02-15 23:14:12.070973 [debug]: filesize:3184, 2  to 3306
+2025-02-15 23:14:12.093636 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:14:12.093711 [debug]: /css/bootstrap.min.css
+2025-02-15 23:14:12.093916 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:14:12.093950 [debug]: /css/style.css
+2025-02-15 23:14:12.094035 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:14:12.094072 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:14:12.094027 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:14:12.094200 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:14:12.097319 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:14:12.098184 [debug]: /css/animate.css
+2025-02-15 23:14:12.098321 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:14:12.098347 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:14:12.100065 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:14:12.100274 [debug]: /css/magnific-popup.css
+2025-02-15 23:14:12.100511 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:14:12.100552 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:14:12.103334 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:14:12.103406 [debug]: /css/font-awesome.min.css
+2025-02-15 23:14:12.103435 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:14:12.103451 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:14:12.106298 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:14:12.106830 [debug]: /images/profile-image.jpg
+2025-02-15 23:14:12.106980 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:14:12.107066 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:14:12.118574 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:14:12.118750 [debug]: /js/jquery.js
+2025-02-15 23:14:12.118785 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:14:12.118805 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:14:12.128529 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:14:12.128731 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:14:12.128805 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:14:12.128855 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:14:12.132447 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:14:12.132853 [debug]: /js/bootstrap.min.js
+2025-02-15 23:14:12.133127 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:14:12.134885 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:14:12.134965 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:14:12.135052 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:14:12.135105 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:14:12.135644 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:14:12.141809 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:14:12.142375 [debug]: /js/smoothscroll.js
+2025-02-15 23:14:12.142521 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:14:12.142570 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:14:12.146012 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:14:12.146205 [debug]: /js/custom.js
+2025-02-15 23:14:12.146365 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:14:12.146544 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:14:12.153117 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:14:12.153334 [debug]: /js/wow.min.js
+2025-02-15 23:14:12.153414 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:14:12.153465 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:15:12.138971 [info] : Client[25] quit!
+2025-02-15 23:15:12.139388 [info] : Client[25](127.0.0.1:57019) quit, UserCount:5
+2025-02-15 23:15:12.142897 [info] : Client[20] quit!
+2025-02-15 23:15:12.143470 [info] : Client[20](127.0.0.1:48315) quit, UserCount:4
+2025-02-15 23:15:12.143557 [info] : Client[18] quit!
+2025-02-15 23:15:12.143661 [info] : Client[18](127.0.0.1:47291) quit, UserCount:3
+2025-02-15 23:15:12.143763 [info] : Client[21] quit!
+2025-02-15 23:15:12.143849 [info] : Client[21](127.0.0.1:49339) quit, UserCount:2
+2025-02-15 23:15:12.146847 [info] : Client[24] quit!
+2025-02-15 23:15:12.147026 [info] : Client[24](127.0.0.1:53435) quit, UserCount:1
+2025-02-15 23:15:12.153417 [info] : Client[22] quit!
+2025-02-15 23:15:12.154437 [info] : Client[22](127.0.0.1:52923) quit, UserCount:0
+2025-02-15 23:18:26.914141 [info] : Client[18](127.0.0.1:18061) in, userCount:1
+2025-02-15 23:18:26.914262 [info] : Client[18] in!
+2025-02-15 23:18:26.978040 [debug]: [GET], [/login.html], [1.1]
+2025-02-15 23:18:26.978256 [debug]: /login.html
+2025-02-15 23:18:26.978311 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//login.html
+2025-02-15 23:18:26.978927 [debug]: filesize:3304, 2  to 3426
+2025-02-15 23:18:27.010183 [info] : Client[20](127.0.0.1:20621) in, userCount:2
+2025-02-15 23:18:27.010450 [info] : Client[20] in!
+2025-02-15 23:18:27.018571 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:18:27.018956 [debug]: /css/bootstrap.min.css
+2025-02-15 23:18:27.019030 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:18:27.019083 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:18:27.021213 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:18:27.021791 [debug]: /css/animate.css
+2025-02-15 23:18:27.021840 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:18:27.021993 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:18:27.056057 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:18:27.056639 [debug]: /js/bootstrap.min.js
+2025-02-15 23:18:27.056840 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:18:27.056972 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:18:27.066586 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:18:27.066646 [debug]: /js/smoothscroll.js
+2025-02-15 23:18:27.066726 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:18:27.066745 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:18:27.074776 [info] : Client[21](127.0.0.1:23693) in, userCount:3
+2025-02-15 23:18:27.075042 [info] : Client[21] in!
+2025-02-15 23:18:27.075076 [info] : Client[22](127.0.0.1:26765) in, userCount:4
+2025-02-15 23:18:27.075125 [info] : Client[22] in!
+2025-02-15 23:18:27.078453 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:18:27.078821 [debug]: /css/magnific-popup.css
+2025-02-15 23:18:27.078879 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:18:27.078933 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:18:27.081051 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:18:27.081290 [debug]: /js/jquery.js
+2025-02-15 23:18:27.081339 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:18:27.081387 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:18:27.083953 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:18:27.084096 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:18:27.084172 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:18:27.084382 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:18:27.085021 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:18:27.085114 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:18:27.085167 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:18:27.085311 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:18:27.088091 [info] : Client[24](127.0.0.1:27277) in, userCount:5
+2025-02-15 23:18:27.089085 [info] : Client[24] in!
+2025-02-15 23:18:27.090152 [info] : Client[25](127.0.0.1:27789) in, userCount:6
+2025-02-15 23:18:27.091922 [info] : Client[25] in!
+2025-02-15 23:18:27.104506 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:18:27.104629 [debug]: /css/font-awesome.min.css
+2025-02-15 23:18:27.104685 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:18:27.104739 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:18:27.106133 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:18:27.106471 [debug]: /css/style.css
+2025-02-15 23:18:27.106528 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:18:27.106577 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:18:27.108120 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:18:27.108293 [debug]: /js/wow.min.js
+2025-02-15 23:18:27.108365 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:18:27.108415 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:18:27.145524 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:18:27.145678 [debug]: /js/custom.js
+2025-02-15 23:18:27.145755 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:18:27.145928 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:18:32.851570 [debug]: username = root
+2025-02-15 23:18:32.851840 [debug]: Tag:1
+2025-02-15 23:18:32.851874 [info] : Verify name:root pwd:123456
+2025-02-15 23:18:32.851907 [debug]: SELECT username, password FROM user WHERE username='root' LIMIT 1
+2025-02-15 23:18:32.869478 [debug]: MYSQL ROW: root 123456
+2025-02-15 23:18:32.869556 [debug]: UserVerify success!!
+2025-02-15 23:18:32.869566 [debug]: Body:username=root&password=123456, len:29
+2025-02-15 23:18:32.869574 [debug]: [POST], [/welcome.html], [1.1]
+2025-02-15 23:18:32.869582 [debug]: /welcome.html
+2025-02-15 23:18:32.869615 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//welcome.html
+2025-02-15 23:18:32.869703 [debug]: filesize:3169, 2  to 3291
+2025-02-15 23:18:32.887645 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:18:32.887820 [debug]: /css/bootstrap.min.css
+2025-02-15 23:18:32.887896 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:18:32.888121 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:18:32.892397 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:18:32.893044 [debug]: /css/magnific-popup.css
+2025-02-15 23:18:32.893192 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:18:32.893243 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:18:32.896374 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:18:32.897046 [debug]: /css/animate.css
+2025-02-15 23:18:32.897190 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:18:32.897245 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:18:32.899966 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:18:32.900141 [debug]: /css/font-awesome.min.css
+2025-02-15 23:18:32.900212 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:18:32.900320 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:18:32.907316 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:18:32.907477 [debug]: /images/profile-image.jpg
+2025-02-15 23:18:32.907572 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:18:32.907651 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:18:32.909365 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:18:32.909451 [debug]: /css/style.css
+2025-02-15 23:18:32.909487 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:18:32.909504 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:18:32.920532 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:18:32.920724 [debug]: /js/jquery.js
+2025-02-15 23:18:32.920814 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:18:32.920866 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:18:32.923029 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:18:32.923117 [debug]: /js/bootstrap.min.js
+2025-02-15 23:18:32.923166 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:18:32.923200 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:18:32.927900 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:18:32.928134 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:18:32.928220 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:18:32.928271 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:18:32.929658 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:18:32.929772 [debug]: /js/smoothscroll.js
+2025-02-15 23:18:32.929849 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:18:32.929917 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:18:32.940375 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:18:32.941382 [debug]: /js/wow.min.js
+2025-02-15 23:18:32.941582 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:18:32.941696 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:18:32.943808 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:18:32.945043 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:18:32.945893 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:18:32.946793 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:18:32.948457 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:18:32.948530 [debug]: /js/custom.js
+2025-02-15 23:18:32.948615 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:18:32.948661 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:18:41.416217 [debug]: [GET], [/register.html], [1.1]
+2025-02-15 23:18:41.416340 [debug]: /register.html
+2025-02-15 23:18:41.416399 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//register.html
+2025-02-15 23:18:41.416493 [debug]: filesize:3299, 2  to 3421
+2025-02-15 23:18:41.440815 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:18:41.441077 [debug]: /css/bootstrap.min.css
+2025-02-15 23:18:41.441163 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:18:41.441219 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:18:41.441675 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:18:41.441815 [debug]: /css/animate.css
+2025-02-15 23:18:41.441887 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:18:41.441941 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:18:41.445501 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:18:41.445942 [debug]: /css/magnific-popup.css
+2025-02-15 23:18:41.446373 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:18:41.446458 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:18:41.449589 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:18:41.449668 [debug]: /css/font-awesome.min.css
+2025-02-15 23:18:41.449937 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:18:41.450026 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:18:41.456753 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:18:41.456863 [debug]: /css/style.css
+2025-02-15 23:18:41.457036 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:18:41.457085 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:18:41.457719 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:18:41.457761 [debug]: /js/jquery.js
+2025-02-15 23:18:41.457839 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:18:41.457889 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:18:41.478850 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:18:41.478993 [debug]: /js/bootstrap.min.js
+2025-02-15 23:18:41.479086 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:18:41.479139 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:18:41.480328 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:18:41.480458 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:18:41.480517 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:18:41.480564 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:18:41.482318 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:18:41.482452 [debug]: /js/smoothscroll.js
+2025-02-15 23:18:41.482531 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:18:41.482580 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:18:41.488957 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:18:41.489880 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:18:41.490920 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:18:41.491714 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:18:41.526396 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:18:41.526924 [debug]: /js/wow.min.js
+2025-02-15 23:18:41.527073 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:18:41.527126 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:18:41.532140 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:18:41.532329 [debug]: /js/custom.js
+2025-02-15 23:18:41.532398 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:18:41.532511 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:18:54.226963 [debug]: username = lihongyu
+2025-02-15 23:18:54.227141 [debug]: Tag:0
+2025-02-15 23:18:54.227177 [info] : Verify name:lihongyu pwd:1234
+2025-02-15 23:18:54.227210 [debug]: SELECT username, password FROM user WHERE username='lihongyu' LIMIT 1
+2025-02-15 23:18:54.235354 [debug]: regirster!
+2025-02-15 23:18:54.235505 [debug]: INSERT INTO user(username, password) VALUES('lihongyu','1234')
+2025-02-15 23:18:54.248420 [debug]: UserVerify success!!
+2025-02-15 23:18:54.248560 [debug]: Body:username=lihongyu&password=1234, len:31
+2025-02-15 23:18:54.248589 [debug]: [POST], [/welcome.html], [1.1]
+2025-02-15 23:18:54.248614 [debug]: /welcome.html
+2025-02-15 23:18:54.248688 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//welcome.html
+2025-02-15 23:18:54.248735 [debug]: filesize:3169, 2  to 3291
+2025-02-15 23:18:54.266868 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:18:54.266985 [debug]: /css/bootstrap.min.css
+2025-02-15 23:18:54.267267 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:18:54.267521 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:18:54.269885 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:18:54.270003 [debug]: /css/animate.css
+2025-02-15 23:18:54.270069 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:18:54.270124 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:18:54.273473 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:18:54.273610 [debug]: /images/profile-image.jpg
+2025-02-15 23:18:54.273667 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:18:54.273717 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:18:54.277592 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:18:54.277758 [debug]: /css/magnific-popup.css
+2025-02-15 23:18:54.277829 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:18:54.277873 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:18:54.283370 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:18:54.283489 [debug]: /css/font-awesome.min.css
+2025-02-15 23:18:54.283543 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:18:54.283580 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:18:54.284386 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:18:54.285405 [debug]: /css/style.css
+2025-02-15 23:18:54.286226 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:18:54.287631 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:18:54.308827 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:18:54.308906 [debug]: /js/jquery.js
+2025-02-15 23:18:54.308995 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:18:54.309047 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:18:54.319223 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:18:54.319378 [debug]: /js/bootstrap.min.js
+2025-02-15 23:18:54.319450 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:18:54.319501 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:18:54.325118 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:18:54.325248 [debug]: /js/smoothscroll.js
+2025-02-15 23:18:54.325316 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:18:54.325357 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:18:54.330855 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:18:54.331545 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:18:54.332036 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:18:54.333347 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:18:54.333471 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:18:54.333556 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:18:54.336850 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:18:54.337750 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:18:54.341723 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:18:54.341779 [debug]: /js/custom.js
+2025-02-15 23:18:54.341872 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:18:54.341923 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:18:54.342116 [debug]: /js/wow.min.js
+2025-02-15 23:18:54.342187 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:18:54.342235 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:18:54.342368 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:19:11.236137 [debug]: [GET], [/video.html], [1.1]
+2025-02-15 23:19:11.237066 [debug]: /video.html
+2025-02-15 23:19:11.237991 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//video.html
+2025-02-15 23:19:11.238932 [debug]: filesize:3355, 2  to 3477
+2025-02-15 23:19:11.260279 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:19:11.260410 [debug]: /css/bootstrap.min.css
+2025-02-15 23:19:11.260470 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:19:11.260509 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:19:11.261641 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:19:11.262067 [debug]: /css/animate.css
+2025-02-15 23:19:11.262158 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:19:11.262196 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:19:11.263353 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:19:11.263458 [debug]: /images/profile-image.jpg
+2025-02-15 23:19:11.263567 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:19:11.263619 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:19:11.264005 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:19:11.264049 [debug]: /css/magnific-popup.css
+2025-02-15 23:19:11.264121 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:19:11.264171 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:19:11.271193 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:19:11.271287 [debug]: /css/font-awesome.min.css
+2025-02-15 23:19:11.271338 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:19:11.271374 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:19:11.273481 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:19:11.273671 [debug]: /css/style.css
+2025-02-15 23:19:11.277403 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:19:11.277882 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:19:11.284672 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:19:11.284845 [debug]: /js/jquery.js
+2025-02-15 23:19:11.284963 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:19:11.285016 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:19:11.288477 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:19:11.288634 [debug]: /js/smoothscroll.js
+2025-02-15 23:19:11.288713 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:19:11.288761 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:19:11.293605 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:19:11.295986 [debug]: /js/bootstrap.min.js
+2025-02-15 23:19:11.300598 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:19:11.301265 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:19:11.304090 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:19:11.304158 [debug]: /js/wow.min.js
+2025-02-15 23:19:11.304242 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:19:11.304276 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:19:11.305041 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:19:11.305071 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:19:11.305126 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:19:11.305173 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:19:11.311264 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:19:11.311440 [debug]: /js/custom.js
+2025-02-15 23:19:11.311558 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:19:11.311791 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:19:11.316444 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:19:11.317252 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:19:11.317602 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:19:11.318367 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:19:11.358143 [debug]: [GET], [/video/xxx.mp4], [1.1]
+2025-02-15 23:19:11.358214 [debug]: /video/xxx.mp4
+2025-02-15 23:19:11.358278 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//video/xxx.mp4
+2025-02-15 23:19:11.358324 [debug]: filesize:39667571, 2  to 39667698
+2025-02-15 23:19:15.240421 [debug]: [GET], [/picture.html], [1.1]
+2025-02-15 23:19:15.240606 [debug]: /picture.html
+2025-02-15 23:19:15.240726 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//picture.html
+2025-02-15 23:19:15.240777 [debug]: filesize:3879, 2  to 4001
+2025-02-15 23:19:15.276014 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:19:15.276152 [debug]: /css/animate.css
+2025-02-15 23:19:15.276283 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:19:15.276341 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:19:15.277005 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:19:15.277685 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:19:15.277837 [debug]: /css/font-awesome.min.css
+2025-02-15 23:19:15.277817 [debug]: /css/style.css
+2025-02-15 23:19:15.277956 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:19:15.278013 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:19:15.278174 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:19:15.279151 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:19:15.279255 [debug]: /css/bootstrap.min.css
+2025-02-15 23:19:15.279426 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:19:15.279477 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:19:15.278018 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:19:15.280799 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:19:15.286531 [debug]: /css/magnific-popup.css
+2025-02-15 23:19:15.286601 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:19:15.286665 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:19:15.292719 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:19:15.293456 [debug]: /images/profile-image.jpg
+2025-02-15 23:19:15.294060 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:19:15.296747 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:19:15.305845 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:19:15.307387 [debug]: [GET], [/images/instagram-image2.jpg], [1.1]
+2025-02-15 23:19:15.308385 [debug]: [GET], [/images/instagram-image1.jpg], [1.1]
+2025-02-15 23:19:15.309406 [debug]: [GET], [/images/instagram-image3.jpg], [1.1]
+2025-02-15 23:19:15.313604 [debug]: [GET], [/images/instagram-image4.jpg], [1.1]
+2025-02-15 23:19:15.315772 [debug]: /images/instagram-image1.jpg
+2025-02-15 23:19:15.315939 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/instagram-image1.jpg
+2025-02-15 23:19:15.315991 [debug]: filesize:75836, 2  to 75960
+2025-02-15 23:19:15.316145 [debug]: /images/instagram-image3.jpg
+2025-02-15 23:19:15.316195 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/instagram-image3.jpg
+2025-02-15 23:19:15.316234 [debug]: filesize:59528, 2  to 59652
+2025-02-15 23:19:15.330242 [debug]: /images/instagram-image2.jpg
+2025-02-15 23:19:15.330448 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/instagram-image2.jpg
+2025-02-15 23:19:15.330502 [debug]: filesize:67313, 2  to 67437
+2025-02-15 23:19:15.331071 [debug]: /images/instagram-image4.jpg
+2025-02-15 23:19:15.331174 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/instagram-image4.jpg
+2025-02-15 23:19:15.331224 [debug]: filesize:103418, 2  to 103543
+2025-02-15 23:19:15.315395 [debug]: /js/jquery.js
+2025-02-15 23:19:15.331521 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:19:15.331569 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:19:15.367674 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:19:15.367825 [debug]: /js/bootstrap.min.js
+2025-02-15 23:19:15.367903 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:19:15.367943 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:19:15.369884 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:19:15.370461 [debug]: /js/smoothscroll.js
+2025-02-15 23:19:15.374759 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:19:15.374861 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:19:15.399432 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:19:15.399535 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:19:15.399710 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:19:15.399771 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:19:15.400545 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:19:15.400762 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:19:15.400831 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:19:15.401055 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:19:15.404387 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:19:15.404446 [debug]: /js/wow.min.js
+2025-02-15 23:19:15.404484 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:19:15.404501 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:19:15.407246 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:19:15.407296 [debug]: /js/custom.js
+2025-02-15 23:19:15.407325 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:19:15.407370 [debug]: filesize:1047, 2  to 1176
+2025-02-15 23:19:15.408434 [debug]: [GET], [/images/instagram-image5.jpg], [1.1]
+2025-02-15 23:19:15.408568 [debug]: /images/instagram-image5.jpg
+2025-02-15 23:19:15.408639 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/instagram-image5.jpg
+2025-02-15 23:19:15.408914 [debug]: filesize:49545, 2  to 49669
+2025-02-15 23:19:20.875687 [debug]: [GET], [/index.html], [1.1]
+2025-02-15 23:19:20.875845 [debug]: /index.html
+2025-02-15 23:19:20.875931 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//index.html
+2025-02-15 23:19:20.875983 [debug]: filesize:3067, 2  to 3189
+2025-02-15 23:19:20.913685 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2025-02-15 23:19:20.913866 [debug]: /css/bootstrap.min.css
+2025-02-15 23:19:20.913948 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/bootstrap.min.css
+2025-02-15 23:19:20.913999 [debug]: filesize:121260, 2  to 121384
+2025-02-15 23:19:20.917785 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2025-02-15 23:19:20.917913 [debug]: /css/magnific-popup.css
+2025-02-15 23:19:20.917983 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/magnific-popup.css
+2025-02-15 23:19:20.918029 [debug]: filesize:6951, 2  to 7073
+2025-02-15 23:19:20.920144 [debug]: [GET], [/css/animate.css], [1.1]
+2025-02-15 23:19:20.920277 [debug]: /css/animate.css
+2025-02-15 23:19:20.920339 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/animate.css
+2025-02-15 23:19:20.920393 [debug]: filesize:72922, 2  to 73045
+2025-02-15 23:19:20.922076 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2025-02-15 23:19:20.922162 [debug]: /css/font-awesome.min.css
+2025-02-15 23:19:20.922209 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/font-awesome.min.css
+2025-02-15 23:19:20.922231 [debug]: filesize:27392, 2  to 27515
+2025-02-15 23:19:20.924207 [debug]: [GET], [/css/style.css], [1.1]
+2025-02-15 23:19:20.924303 [debug]: /css/style.css
+2025-02-15 23:19:20.924360 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//css/style.css
+2025-02-15 23:19:20.924406 [debug]: filesize:9807, 2  to 9929
+2025-02-15 23:19:20.943381 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2025-02-15 23:19:20.943554 [debug]: /images/profile-image.jpg
+2025-02-15 23:19:20.943631 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//images/profile-image.jpg
+2025-02-15 23:19:20.943688 [debug]: filesize:47176, 2  to 47300
+2025-02-15 23:19:20.946337 [debug]: [GET], [/js/jquery.js], [1.1]
+2025-02-15 23:19:20.946458 [debug]: /js/jquery.js
+2025-02-15 23:19:20.946527 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.js
+2025-02-15 23:19:20.946566 [debug]: filesize:85658, 2  to 85788
+2025-02-15 23:19:20.952804 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2025-02-15 23:19:20.952894 [debug]: /js/smoothscroll.js
+2025-02-15 23:19:20.953049 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/smoothscroll.js
+2025-02-15 23:19:20.953105 [debug]: filesize:4474, 2  to 4603
+2025-02-15 23:19:20.954314 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2025-02-15 23:19:20.954452 [debug]: /js/bootstrap.min.js
+2025-02-15 23:19:20.954520 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/bootstrap.min.js
+2025-02-15 23:19:20.954571 [debug]: filesize:36868, 2  to 36998
+2025-02-15 23:19:20.956112 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2025-02-15 23:19:20.956160 [debug]: /js/jquery.magnific-popup.min.js
+2025-02-15 23:19:20.956220 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/jquery.magnific-popup.min.js
+2025-02-15 23:19:20.956257 [debug]: filesize:20932, 2  to 21062
+2025-02-15 23:19:20.963066 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2025-02-15 23:19:20.963162 [debug]: /js/magnific-popup-options.js
+2025-02-15 23:19:20.963352 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/magnific-popup-options.js
+2025-02-15 23:19:20.963426 [debug]: filesize:1069, 2  to 1198
+2025-02-15 23:19:21.013670 [debug]: [GET], [/js/wow.min.js], [1.1]
+2025-02-15 23:19:21.013822 [debug]: /js/wow.min.js
+2025-02-15 23:19:21.013930 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/wow.min.js
+2025-02-15 23:19:21.013967 [debug]: filesize:7082, 2  to 7211
+2025-02-15 23:19:21.016017 [debug]: [GET], [/js/custom.js], [1.1]
+2025-02-15 23:19:21.016116 [debug]: /js/custom.js
+2025-02-15 23:19:21.016182 [debug]: file path /home/lhy/webserver/TinyWebServer/resources//js/custom.js
+2025-02-15 23:19:21.016353 [debug]: filesize:1047, 2  to 1176
